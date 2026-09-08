@@ -1,1 +1,1 @@
-Practice Coding everyday using Neetcode
+All the problems from Neetcode from the Two pointers section
